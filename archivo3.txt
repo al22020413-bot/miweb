@@ -1,1 +1,3 @@
-este es el tercer archivo
+este es el archivo 3
+esta es otra del 3
+esta es el 3
